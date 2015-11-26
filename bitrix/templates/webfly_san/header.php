@@ -112,7 +112,7 @@ require_once 'settings.php';
 							"REGISTER_URL" => "",
 							"FORGOT_PASSWORD_URL" => "",
 							"PROFILE_URL" => "/personal/",
-							"SHOW_ERRORS" => "N",
+							"SHOW_ERRORS" => "Y",
 						),
 							false
 						);?>

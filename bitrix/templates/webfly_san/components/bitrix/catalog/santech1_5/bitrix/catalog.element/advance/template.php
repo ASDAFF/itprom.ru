@@ -24,10 +24,9 @@ if(CModule::IncludeModule("iblock")): //подключаем модуль инф
 	$uf_arresult = CIBlockSection::GetList(Array("SORT"=>"­­ASC"), Array("IBLOCK_ID" => $uf_iblock_id, "ID" => $uf_section_id), false, $uf_name);
 	if($uf_value = $uf_arresult->GetNext()):
 		if(strlen($uf_value["UF_DESCR_TEMPLATE"]) > 0): //проверяем что поле заполнено
-//			test_dump($uf_value["UF_DESCR_TEMPLATE"]);
-			$DESCRIPTION = $uf_value["UF_DESCR_TEMPLATE"];
-
-			$string_to_find = "/#[A-Z_]+#/";
+//			test_dump($uf_value);
+			$DESCRIPTION = $uf_value["~UF_DESCR_TEMPLATE"];
+			$string_to_find = "/#[A-Z_n]+#/";
 
 			$matches = Array();
 			preg_match_all($string_to_find, $DESCRIPTION, $matches);
@@ -36,11 +35,19 @@ if(CModule::IncludeModule("iblock")): //подключаем модуль инф
 				$matches = $matches[0];
 
 				for ($i = 0; $i < count($matches); $i++) {
-					$match = trim($matches[$i], "#");
+//					test_dump($matches[$i][1]);
+					$value = $matches[$i][1] != 'n';
+					$match = trim($matches[$i], "#n");
 //					test_dump($match);
 //					test_dump($arResult["PROPERTIES"][$match]["VALUE"]);
 
-					$replace = $arResult["PROPERTIES"][$match]["VALUE"];
+//					test_dump($match);
+//					test_dump($value);
+
+					if ($value)
+						$replace = $arResult["PROPERTIES"][$match]["VALUE"];
+					else
+						$replace = $arResult["PROPERTIES"][$match]["NAME"];
 
 					$DESCRIPTION = str_replace($matches[$i], $replace, $DESCRIPTION);
 				}
@@ -319,7 +326,7 @@ $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js
 		</ul>
 		<div class="tab-holder">
 			<div class="tab active">
-				<span itemprop="description"><?=$arResult["DETAIL_TEXT"]?></span>
+				<div itemprop="description"><?=$arResult["DETAIL_TEXT"]?></div>
 			</div>
 			<div class="tab">
 				<?$excludeProps = array("BRAND_REF", "SPECIALOFFER",  "RECOMMEND", //"ARTNUMBER",
