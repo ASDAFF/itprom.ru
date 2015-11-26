@@ -1,0 +1,1598 @@
+Host: itprom.ru
+Date: 2015-11-04 23:24:48
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:49
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/series-vt/?PAGEN_1=3&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:52
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:52
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog.recommended.products/detail2/template.php
+Request URI: /catalog/termoshkafi/IB-100100300-400/
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.viewed.products/class.php:1295
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:52
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:52
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/series-vt/?PAGEN_1=4&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:58
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:24:58
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/series-vt/?PAGEN_1=5&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:25:02
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:25:03
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/series-vt/?PAGEN_1=6&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:25:39
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:25:55
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:08
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:26
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:35
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:36
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.compare.result/.default/template.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.compare.result/component.php:1064
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:36
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:36
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:40
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:40
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.compare.result/.default/template.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.compare.result/component.php:1064
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:40
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:40
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:45
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:45
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.compare.result/.default/template.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.compare.result/component.php:1064
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:45
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:45
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:58
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.basket.basket/basket/template.php
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.basket.basket/component.php:118
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:26:58
+Module: Composite was rejected
+Reason: bitrix:sale.basket.basket
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/personal/cart/index.php:37
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:05
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.basket.basket/basket/template.php
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.basket.basket/component.php:118
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:05
+Module: Composite was rejected
+Reason: bitrix:sale.basket.basket
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/personal/cart/index.php:37
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:13
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:18
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:34
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:27:50
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:28:55
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:28:57
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:04
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:06
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:12
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:16
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:18
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:29:23
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:39
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.basket.basket/basket/template.php
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.basket.basket/component.php:118
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:39
+Module: Composite was rejected
+Reason: bitrix:sale.basket.basket
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/personal/cart/index.php:37
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:39
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.basket.basket/basket/template.php
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.basket.basket/component.php:118
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:39
+Module: Composite was rejected
+Reason: bitrix:sale.basket.basket
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/personal/cart/index.php:37
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:44
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.basket.basket/basket/template.php
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.basket.basket/component.php:118
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:30:44
+Module: Composite was rejected
+Reason: bitrix:sale.basket.basket
+Request URI: /personal/cart/
+Script: /personal/cart/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/personal/cart/index.php:37
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:37:57
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/personal/cart/index@.html.delete.1446669477.6105
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:03
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:12
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/news/index@.html.delete.1446669492.685
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:14
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/personal/cart/index@.html.delete.1446669494.5886
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:20
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:28
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:28
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446669508.7515
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:32
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:33
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/seriesibv/index@.html.delete.1446669513.1796
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:37
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:38:37
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446669517.839
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:40:52
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:40:57
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:40:57
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446669657.8434
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:40:59
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:01
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:07
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:08
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi_antivandalniye/index@.html.delete.1446669668.3132
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:10
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:10
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi_19/index@.html.delete.1446669670.7783
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:13
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:13
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:14
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446669674.0075
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:17
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:22
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:22
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:22
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/aksessuary-dlya-termoshkafov/osnovanie-napolnoe/index@.html.delete.1446669682.9503
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:23
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446669683.1252
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:26
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:29
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:29
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/?PAGEN_1=2&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:30
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:33
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:34
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/?PAGEN_1=3&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:39
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:39
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.compare.result/.default/template.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.compare.result/component.php:1064
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:39
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:39
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:44
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:44
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.compare.result/.default/template.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog.compare.result/component.php:1064
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:44
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:44
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:41:54
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:02
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:04
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:06
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:10
+Module: 
+compare
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:10
+Module: Composite was rejected
+Reason: bitrix:catalog.compare.result
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include < CBitrixComponentTemplate::__IncludePHPTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:584
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php:39
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:10
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/compare.php
+Request URI: /catalog/compare.php?action=COMPARE
+Script: /catalog/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/catalog/component.php:150
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:17
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:18
+Module: composite
+RestartBuffer method was invoked
+Request URI: /catalog/termoshkafi/?PAGEN_1=4&ajaxw=Y
+Script: /catalog/index.php
+    Bitrix\Main\Page\Frame::onBeforeRestartBuffer < call_user_func_array < ExecuteModuleEventEx < CAllMain::RestartBuffer < include
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3187
+	/var/www/u0095419/data/www/itprom.ru/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/template.php:93
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:708
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:28
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:31
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:33
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:36
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:36
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/aksessuary-dlya-termoshkafov/polki-konsolnye/index@.html.delete.1446669756.5562
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:50
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.locations/templates/popup/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.locations/component.php:306
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:50
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.locations/templates/popup/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.locations/component.php:306
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:50
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.delivery.calculator/templates/.default/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.delivery.calculator/component.php:166
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:50
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.order.ajax/oneStepOrder/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.order.ajax/component.php:2218
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:55
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.locations/templates/popup/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.locations/component.php:306
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:55
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.locations/templates/popup/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.locations/component.php:306
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:55
+Module: Composite was rejected
+Reason: /bitrix/components/bitrix/sale.ajax.delivery.calculator/templates/.default/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.ajax.delivery.calculator/component.php:166
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:42:55
+Module: Composite was rejected
+Reason: /bitrix/templates/webfly_san/components/bitrix/sale.order.ajax/oneStepOrder/template.php
+Request URI: /personal/order/make/
+Script: /personal/order/make/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:719
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component_template.php:800
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:657
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:605
+	/var/www/u0095419/data/www/itprom.ru/bitrix/components/bitrix/sale.order.ajax/component.php:2218
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:30
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:35
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:38
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:44
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:44
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/seriesibl/index@.html.delete.1446669824.6642
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:53
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:43:58
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:44:03
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:44:07
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:44:11
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:46:37
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/index@.html.delete.1446669997.4899
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:46:46
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:46:47
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:46:57
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:11
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:11
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446670031.4071
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:29
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/personal/cart/index@.html.delete.1446670049.1218
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:33
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:34
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446670054.1327
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:35
+Module: 
+element
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:38
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:42
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:42
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446670062.7038
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:44
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:44
+Module: composite
+/var/www/u0095419/data/www/itprom.ru/bitrix/html_pages/itprom.ru/catalog/termoshkafi/index@.html.delete.1446670064.9264
+    Bitrix\Main\Data\StaticHtmlCache::writeDebug < Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::processPageContent < Bitrix\Main\Page\Frame::endBuffering < CAllMain::EndBufferContent
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/data/statichtmlcache.php:166
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:389
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/lib/page/frame.php:337
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3268
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:3204
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:47:58
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------
+Host: itprom.ru
+Date: 2015-11-04 23:48:01
+Module: 
+section
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < include_once
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:535
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/component.php:578
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/classes/general/main.php:1050
+	/var/www/u0095419/data/www/itprom.ru/catalog/index.php:326
+	/var/www/u0095419/data/www/itprom.ru/bitrix/modules/main/include/urlrewrite.php:159
+----------

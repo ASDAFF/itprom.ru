@@ -1,0 +1,887 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="шкаф с микроклиматом, монтажный шкаф с системой микроклимата, электромонтажный шкаф с системой микроклимата, шкаф на столб для счетчика, термошкаф ITProm VT" />
+<meta name="description" content="Купить термошкаф ITProm VT с микроклиматом по низкой цене. Термошкафы ITProm VT с системой микроклимата с доставкой по всей России." />
+<style type="text/css">.bx-composite-btn {background: url(/bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #ffffff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@mediaonly screen and (-webkit-min-device-pixel-ratio: 2),only screen and (min--moz-device-pixel-ratio: 2),only screen and (-o-min-device-pixel-ratio: 2/1),only screen and (min-device-pixel-ratio: 2),only screen and (min-resolution: 192dpi),only screen and (min-resolution: 2dppx) {.bx-composite-btn {background-image: url(/bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}</style>
+<script type="text/javascript" data-skip-moving="true">(function(w) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','banner':{'url':'http://www.1c-bitrix.ru/composite/','text':'Быстро с 1С-Битрикс','bgcolor':'#FFFFFF','style':'grey'},'storageBlocks':[]};var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);try { r.setRequestHeader("BX-REF", document.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}else{w.frameRequestFail = f;}return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();})(window);</script>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/webfly_san/kernel_main/kernel_main.css?144697858539563" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/kernel_socialservices/kernel_socialservices.css?14469785854671" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/page_8c6fe90fe72fca10d21d1bc3006bbde8/page_8c6fe90fe72fca10d21d1bc3006bbde8.css?144697858551031" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/default_f4071323c5d06fd39c70a16b9ba05478/default_f4071323c5d06fd39c70a16b9ba05478.css?14469785851691" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?144344774320704" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/default_956eee66ef97d5e2d9742e9b9856c1cb/default_956eee66ef97d5e2d9742e9b9856c1cb.css?1446978585331" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/default_97cce585471b2112e0a5688b7cc64d27/default_97cce585471b2112e0a5688b7cc64d27.css?14469785858947" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/webfly_san/template_9ca1b94dad36a62a82bb454d4df7d8b8/template_9ca1b94dad36a62a82bb454d4df7d8b8.css?1447748508107934" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+<meta property="ya:interaction" content="XML_FORM" />
+<meta property="ya:interaction:url" content="https://itprom.ru/catalog/termoshkafi/series-vt/?mode=xml" />
+
+
+
+	<title>Термошкафы ITProm VT с микроклиматом</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">    
+																												</head>
+<body >
+<div id="panel"></div>
+<!--    Fixed-header -->
+<div id="header">
+	<div class="header-top">
+		<div class="header-center">
+			<div id="auth-container" class="input-block">
+							</div>
+			<div class="help-block">
+				<a href="/about/"><span class="icon20px icon-help"></span>Помощь</a>
+			</div>
+			
+<ul class="top-nav">
+			<li><a href="/about/dostavka/">Доставка</a></li>
+				<li><a href="/about/garantiya/">Гарантия</a></li>
+				<li><a href="/brands/">Бренды</a></li>
+				<li><a href="/sales/">Акции</a></li>
+				<li><a href="/blog/">Блог ITProm</a></li>
+				<li><a href="/news/">Новости</a></li>
+				<li><a href="/about/o-kompanii/">Компания</a></li>
+				<li><a href="/about/contacts/">Контакты</a></li>
+	
+</ul>
+		</div>
+	</div>
+	<div class="header-info">
+		<div class="header-center" itemscope itemtype="http://schema.org/Organization">
+			<div class="col20">
+				<div class="logo"><a href="/">Магазин сантехники</a></div>
+				<span style="font-size:0px;width:0px;height:0px;overflow:hidden;color:transparent;">
+					<span itemprop="name">ITProm</span>
+					<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+						<span itemprop="addressLocality">г. Мытищи</span>
+						<span itemprop="streetAddress">ул. Веры Волошиной, д.14. офис 409</span>
+						<span itemprop="email">info@itprom.ru</span>
+					</span>
+				</span>
+			</div>
+			<div class="col20">
+            <span class="header-phone">
+                          </span>
+			</div>
+			<div class="col20">
+            <span class="header-phone">
+              <span class="small-text">бесплатный номер для всей России</span><br>
+<a href="tel:84952550096" title="Номер телефона ITProm"><span itemprop="telephone">8 (495) 255-00-96</span></a>				<span class="small-text"><noindex><a href="#" rel="nofollow">Заказать звонок</a></noindex></span>
+            </span>
+			</div>
+			<div class="col20 small-text">
+				<span class="icon40px icon-time"></span>
+				<time itemprop="openingHours" datetime="Mo-Su 9:00−20:00">мы принимаем Ваши звонки<br/>
+	с 9:00 до 20:00 ежедневно</time>			</div>
+			<div class="col20 small-text">
+				<span class="icon40px icon-dostavka"></span>
+				доставка товара<br /><time itemprop="openingHours" datetime="Mo-Su 10:00−18:00">с 10:00 до 18:00 ежедневно</time>			</div>
+		</div>
+	</div>
+</div>
+<!--    Navigation -->
+<div class="wrapper nav-wrapper">
+	<div class="line-top-colors"></div>
+	
+<ul id="nav">
+      <li class="">
+      <a href="/catalog/termoshkafi/"><span><em>Термошкафы ITProm</em></span></a>
+              <div class="drop-nav drop-nav-phone">
+          <div class="drop-nav-hold">
+          <div class="col">
+                    <div class="block">
+                      <ul><li><a href="/catalog/termoshkafi/series-t/">Серия T</a></li><li><a href="/catalog/termoshkafi/series-vt/">Серия VT</a></li><li><a href="/catalog/termoshkafi/series-tl/">Серия TL</a></li><li><a href="/catalog/termoshkafi/seriesib/">Серия IB</a></li><li><a href="/catalog/termoshkafi/seriesibl/">Серия IBL</a></li><li><a href="/catalog/termoshkafi/seriesibv/">Серия IBV</a></li></ul>
+                 </div>
+                </div><span class="shadow">&nbsp;</span>          </div>
+        </div>
+          </li>
+      <li class="">
+      <a href="/catalog/termoshkafi_antivandalniye/"><span><em>Антивандальные термошкафы ITProm</em></span></a>
+          </li>
+      <li class="">
+      <a href="/catalog/termoshkafi_19/"><span><em>19&quot; термошкафы ITProm</em></span></a>
+          </li>
+      <li class="left-drop">
+      <a href="/catalog/aksessuary-dlya-termoshkafov/"><span><em>Аксессуары для термошкафов</em></span></a>
+              <div class="drop-nav drop-nav-phone">
+          <div class="drop-nav-hold">
+          <div class="col">
+                    <div class="block">
+                      <ul><li><a href="/catalog/aksessuary-dlya-termoshkafov/krepleniya-na-machtu/">Крепления на мачту</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/krepleniya-na-stenu/">Крепления на стену</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/kronshteyny-telekommunikatsionnye-19/">Кронштейны телекоммуникационные 19&quot;</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/nagrevateli/">Нагреватели</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/osnovanie-napolnoe/">Основание напольное</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/polki-konsolnye/">Полки консольные</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/ruchki-dvernye/">Ручки дверные</a></li><li><a href="/catalog/aksessuary-dlya-termoshkafov/termostaty/">Термостаты</a></li></ul>
+                 </div>
+                </div><span class="shadow">&nbsp;</span>          </div>
+        </div>
+          </li>
+  </ul>
+	
+	<div id="title-search">
+		<form action="/bitrix/templates/webfly_san/components/bitrix/search.title/stitle/result_modifier.php" id="search_form" class="search-form">
+			<input type="hidden" name="site_id" value="s1"/>
+      <fieldset>
+        <label>ПОИСК ТОВАРА:</label>
+        <input type="button" class="btn-search s_submit" value="Искать" onclick="$('#search_form').submit();"/>
+        <div class="input-search-hold">
+          <div class="input-search">
+            <input type="text" class="txt" name="q" id="title-search-input" autocomplete="off"  value="" placeholder="Например: Термошкаф VT 4040200" />
+          </div>
+        </div>
+			        <select id="search_select" name="search_category" style="display: none;">
+                      <option value='all'>Везде</option>
+                                <option value='0'>Новости</option>
+                      <option value='1'>Форумы</option>
+                      <option value='2'>Книги</option>
+                  </select>
+      </fieldset>
+      <input type="hidden" name="is_ajax_call" value="y"/>
+      <input type="hidden" name="is_before" value="y"/>
+		</form>
+			</div>
+
+</div><div class="wrapper">
+  <div class="container">
+    <div class="container-hold">
+      <div class="main-frame">
+  <div id="content">
+    <div class="c1">
+      <ul class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/" title="ITProm.ru"><span itemprop="name">ITProm.ru</span></a><met a itemprop="position" content="0" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/catalog/" title="Каталог"><span itemprop="name">Каталог</span></a><met a itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/catalog/termoshkafi/" title="Термошкафы ITProm"><span itemprop="name">Термошкафы ITProm</span></a><met a itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name">Серия VT</span><met a itemprop="position" content="3" /></li></ul>      
+
+<style>
+	.pheader2 {
+		text-align: left;
+		font-weight: bold;
+		display: block;
+		font-size: 1.5em;
+		margin: 0 0 0 10px;
+		-webkit-margin-before: 0.83em;
+		-webkit-margin-after: 0.83em;
+		-webkit-margin-end: 0px;
+	}
+</style>
+
+
+            
+
+        
+
+  <div class="sort-block">
+    <span class="sort-title">Сортировать по: </span>
+    <a href="/catalog/termoshkafi/series-vt/?sort=price&sort_ord=asc" class="link-sort link-price">Цене</a>
+    <!--a href="#" class="link-sort link-brand ls-asc" data-sort="asc">Бренд</a-->
+    <a href="/catalog/termoshkafi/series-vt/?view=list" class="link-list">Список</a>
+    <a href="/catalog/termoshkafi/series-vt/" class="link-table">Таблица</a>
+      </div>
+  <div class="product-catalog product-catalog03" id="wf-product-catalog">
+    <ul>
+            <!--RestartBuffer-->
+              <li>
+          <div class="hold" id="bx_3966226736_63957">
+            <div class="visual">
+              <a id="bx_3966226736_63957_pict" href="/catalog/termoshkafi/series-vt/VT-3040200-45/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/959/235_194_1/959e72984540e7bc301023f5cb984644.png" width="194" height="194" title="купить термошкаф  vt-3040200-45 от производителя" alt="купить термошкаф  vt-3040200-45 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3040200-45/" class="product-title">Термошкаф  VT-3040200-45</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63957_price"><span class="my-digit">17509</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63957_buy_link" href="javascript:void(0);" price-val="17509" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_0" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63958">
+            <div class="visual">
+              <a id="bx_3966226736_63958_pict" href="/catalog/termoshkafi/series-vt/VT-4040200-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/c3b/235_194_1/c3b321f1f26bb97f696e51c25649531c.png" width="194" height="194" title="купить термошкаф  vt-4040200-100 от производителя" alt="купить термошкаф  vt-4040200-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-4040200-100/" class="product-title">Термошкаф  VT-4040200-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63958_price"><span class="my-digit">18512</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63958_buy_link" href="javascript:void(0);" price-val="18512" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_1" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63959">
+            <div class="visual">
+              <a id="bx_3966226736_63959_pict" href="/catalog/termoshkafi/series-vt/VT-4050200-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/4d4/235_194_1/4d42db91f0b19cbccad2b8df2644917e.png" width="194" height="194" title="купить термошкаф  vt-4050200-100 от производителя" alt="купить термошкаф  vt-4050200-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-4050200-100/" class="product-title">Термошкаф  VT-4050200-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63959_price"><span class="my-digit">19515</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63959_buy_link" href="javascript:void(0);" price-val="19515" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_2" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63960">
+            <div class="visual">
+              <a id="bx_3966226736_63960_pict" href="/catalog/termoshkafi/series-vt/VT-4060200-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/751/235_194_1/751777dc1263580d1d38f6379a336059.png" width="194" height="194" title="купить термошкаф  vt-4060200-100 от производителя" alt="купить термошкаф  vt-4060200-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-4060200-100/" class="product-title">Термошкаф  VT-4060200-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63960_price"><span class="my-digit">20903</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63960_buy_link" href="javascript:void(0);" price-val="20903" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_3" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63961">
+            <div class="visual">
+              <a id="bx_3966226736_63961_pict" href="/catalog/termoshkafi/series-vt/VT-5050200-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/992/235_194_1/992e1cace665eb2a33e333370d437583.png" width="194" height="194" title="купить термошкаф  vt-5050200-100 от производителя" alt="купить термошкаф  vt-5050200-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-5050200-100/" class="product-title">Термошкаф  VT-5050200-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63961_price"><span class="my-digit">21212</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63961_buy_link" href="javascript:void(0);" price-val="21212" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_4" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63962">
+            <div class="visual">
+              <a id="bx_3966226736_63962_pict" href="/catalog/termoshkafi/series-vt/VT-5070200-150/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/824/235_194_1/8240e472c75acf940da3741357d55a5f.png" width="194" height="194" title="купить термошкаф  vt-5070200-150 от производителя" alt="купить термошкаф  vt-5070200-150 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-5070200-150/" class="product-title">Термошкаф  VT-5070200-150</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63962_price"><span class="my-digit">24143</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63962_buy_link" href="javascript:void(0);" price-val="24143" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_5" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63963">
+            <div class="visual">
+              <a id="bx_3966226736_63963_pict" href="/catalog/termoshkafi/series-vt/VT-6060200-150/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/cbf/235_194_1/cbf2fe87aa31f0984ccc86a195706362.png" width="194" height="194" title="купить термошкаф  vt-6060200-150 от производителя" alt="купить термошкаф  vt-6060200-150 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-6060200-150/" class="product-title">Термошкаф  VT-6060200-150</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63963_price"><span class="my-digit">24065</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63963_buy_link" href="javascript:void(0);" price-val="24065" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_6" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63964">
+            <div class="visual">
+              <a id="bx_3966226736_63964_pict" href="/catalog/termoshkafi/series-vt/VT-3030210-45/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/8a2/235_194_1/8a2f0c701052b28ef0f6c565d4a3538a.jpg" width="194" height="194" title="купить термошкаф  vt-3030210-45 от производителя" alt="купить термошкаф  vt-3030210-45 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3030210-45/" class="product-title">Термошкаф  VT-3030210-45</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63964_price"><span class="my-digit">18666</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63964_buy_link" href="javascript:void(0);" price-val="18666" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_7" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63965">
+            <div class="visual">
+              <a id="bx_3966226736_63965_pict" href="/catalog/termoshkafi/series-vt/VT-3040210-45/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/abf/235_194_1/abf667a809b7a39f753fd665e6db7dc7.jpg" width="194" height="194" title="купить термошкаф  vt-3040210-45 от производителя" alt="купить термошкаф  vt-3040210-45 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3040210-45/" class="product-title">Термошкаф  VT-3040210-45</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63965_price"><span class="my-digit">19438</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63965_buy_link" href="javascript:void(0);" price-val="19438" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_8" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63966">
+            <div class="visual">
+              <a id="bx_3966226736_63966_pict" href="/catalog/termoshkafi/series-vt/VT-3830210-45/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/7b1/235_194_1/7b159b180bfa30c0f9e399ea7de517a5.png" width="194" height="194" title="купить термошкаф  vt-3830210-45 от производителя" alt="купить термошкаф  vt-3830210-45 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3830210-45/" class="product-title">Термошкаф  VT-3830210-45</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63966_price"><span class="my-digit">18975</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63966_buy_link" href="javascript:void(0);" price-val="18975" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_9" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63967">
+            <div class="visual">
+              <a id="bx_3966226736_63967_pict" href="/catalog/termoshkafi/series-vt/VT-3838210-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/3e0/235_194_1/3e03003d639f2ed023120089af1bce3f.png" width="194" height="194" title="купить термошкаф  vt-3838210-100 от производителя" alt="купить термошкаф  vt-3838210-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3838210-100/" class="product-title">Термошкаф  VT-3838210-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63967_price"><span class="my-digit">19515</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63967_buy_link" href="javascript:void(0);" price-val="19515" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_10" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <li>
+          <div class="hold" id="bx_3966226736_63968">
+            <div class="visual">
+              <a id="bx_3966226736_63968_pict" href="/catalog/termoshkafi/series-vt/VT-3860210-100/">
+                <img class="sm-img" src="/upload/resize_cache/iblock/5a3/235_194_1/5a3aec4c436e664d8e82897450958138.png" width="194" height="194" title="купить термошкаф  vt-3860210-100 от производителя" alt="купить термошкаф  vt-3860210-100 от производителя" />
+                <div class="labels">
+                                                                      </div>
+              </a>
+            </div>
+            <div class="block">
+              <div class="description">
+                <a href="/catalog/termoshkafi/series-vt/VT-3860210-100/" class="product-title">Термошкаф  VT-3860210-100</a>
+              </div>
+              <div class="wrap-block">
+                <div class="box">
+                  <div class="col-left">
+                                          <span class="price" id="bx_3966226736_63968_price"><span class="my-digit">21983</span>&nbsp;<span class="rouble">&#8399;</span></span>
+                                      </div>
+                                      <a id="bx_3966226736_63968_buy_link" href="javascript:void(0);" price-val="21983" class="link-basket" rel="nofollow">Купить</a>
+                                </div>
+            </div>
+            <form id="dop_options_container_11" class="dop_options" method="post" action="" style="margin-top:10px;">
+<!--                TODO: delete ajaxw from url with special function   -->
+                Loading...            </form>
+          </div>
+        </li>
+              <!--RestartBuffer-->
+            </ul>
+  </div>
+  
+    <!--RestartBuffer-->
+      
+
+
+  <!-- SEO-article goes here -->
+  <style>
+    .text-description-content {
+      overflow: hidden;
+      position: relative;
+      text-align: justify;
+      padding:45px 35px 0px 35px;
+      font: 15px/20px 'ubunturegular', Arial, Helvetica, sans-serif;
+      color:#787878;
+    }
+    .box-hide {
+      max-height: 135px;
+    }
+    .text-description-more {
+      text-align: right;
+      font: 16px/20px 'ubunturegular', Arial, Helvetica, sans-serif;
+      padding:20px 35px 45px 0px;
+    }
+
+  </style>
+  
+  <div id="text-description-page" class="text-description-page">
+    <div id="short_text" class="text-description-content box-hide">
+      <h1>Серия VT</h1>
+      <p>
+        <p>
+	 Термошкаф ITProm серии VT архитектурно представляет собой тепло-, влаго-, шумо- и виброизолированный металлический шкаф, в котором размещается система обогрева, аппаратура с сильным тепловыделением. Такой <b>шкаф с микроклиматом</b> имеет мощную систему вентиляции (два вентилятора, фильтр), антивандальный корпус, утеплитель, датчик (температуры), обогреватель, розетку, управляющий автомат, разводку, крепежный комплект (на пол, в нише, на фундаменте). Всегда может потребоваться шкаф на столб для счетчика в строительстве, при эксплуатации.
+</p>
+<p>
+	 Применяется для электротехнического, а также телекоммуникационного (электронного) оборудования, например, в системах безопасности, связи, для уличного активного оборудования (защищаемой как от охлаждения, так и от перегрева). Продукция лучшего поставщика термобоксов.
+</p>
+<p>
+	 Непрерывно поддерживая задаваемую температуру в диапазоне 5-10 град., шкаф с микроклиматом обеспечивает нормальный режим работы, сохранность оборудования внутри, защиту от влаги, наледи, снега, пыли, ультрафиолета, избыточного тепла и др.
+</p>
+<h2>
+Шкаф с микроклиматом и его особенности </h2>
+<p>
+	 Металлический корпус сварен непрерывным швом, имеет герметичные дверцы со специальным уплотнителем, загрунтован и окрашен серой (стандарта RAL7035) краской высокого качества в два слоя, имеет дополнительно полимерное покрытие, обеспечивающее устойчивость в агрессивной среде и долговечность шкафа.
+</p>
+<p>
+	 Отвод тепла монтажный шкаф с системой микроклимата ведет с производительностью максимум 65 кубометров/час. Габариты шкафа - 500×600×1200 (мм), вес - 79 кг. Корпус изделия из стали, листовой, у двери имеется уплотнение (по периметру) из полиуретана. Крепление – напольное. Диапазон температур для эксплуатации (в градусах по Цельсию) – [-60;50], терморегулирования – [0;60]. Используется напряжение 220 (в), имеет класс защиты - IP55, генерируемая мощность - 400 Вт.
+</p>
+<p>
+ <b>Электромонтажный шкаф с системой микроклимата</b> аппаратно защищен от сбоев настройки термодатчиков. Монтируется оборудование на панель, есть крепежный комплект. Легко и без специальных инструментов монтируется.
+</p>
+<p>
+	 В комплектацию для стандартного варианта поставки входит:
+</p>
+<p>
+</p>
+<ul>
+	<li>· утепленный корпус из металла;<br>
+ </li>
+	<li>· автомат (двухполюсной выключатель);<br>
+ </li>
+	<li>· датчики температуры (один управляет нагревателем, другой - вентиляцией);<br>
+ </li>
+	<li>· нагреватель;<br>
+ </li>
+	<li>· вентиляционная решетка;<br>
+ </li>
+	<li>· разводка (перемычки, провода, концевой сегмент, колодки клеммные, евророзетка подключения, уплотнители).<br>
+ </li>
+</ul>
+<p>
+</p>      </p>
+    </div>
+    <div class="text-description-more">
+      <a onclick="seoshowmore()" rel="nofollow" href="#text-description-page" id="short_text_show_link" class="novisited arrow-link text-description-more-link">
+        <span class="xhr arrow-link-inner">Читать полностью</span>&nbsp;→
+      </a>
+    </div>
+  </div>
+
+  
+    </div>
+  </div>
+
+
+
+  <div id="compare_list_items_container" style="display: none">
+  	  
+    </div>
+
+
+
+  <div id="sidebar">
+      </div>
+</div>
+      </div>
+  </div>
+</div>
+
+<!--    Bottom info here -->
+<div class="wrapper info-wrapper">
+    <div class="information-block"  itemscope itemtype="http://schema.org/Organization">
+        <div class="col-left">
+            <span class="copy">© 2014 - 2015</span>
+<p itemprop="name">ITProm.ru</p>
+<a href="mailto:info@itprom.ru" class="link-site"  itemprop="email">
+  info@itprom.ru
+</a>
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<p itemprop="addressLocality">г. Москва</p>
+	<p itemprop="streetAddress">ул. Ибрагимова, д.35, стр. 1, к. 1а</p>
+</div>            <p style="margin-top: 25px;"><a href="http://seocontext.su" target="_blank">Разработка сайта</a>:<br/>
+                SeoContext.su</p>
+        </div>
+        <div class="contacts">
+            <div class="col20">
+                <p class="footing-p-header">Мы в социальных сетях</p>
+<p>Мы будем рады видеть вас среди наших подписчиков<br /> </p>
+<noindex>
+<div class="soc-block">
+  <ul>
+    <li><a rel="nofollow" href="http://vk.com/itpromgroup"><img src="/bitrix/templates/webfly_san/img/ico11.png" width="38" height="38" alt="Группа ITProm ВКонтакте" /></a></li>
+    <li><a rel="nofollow"  href="#"><img src="/bitrix/templates/webfly_san/img/ico12.png" width="38" height="38" alt="Группа ITProm в Facebook" /></a></li>
+    <li><a rel="nofollow"  href="#"><img src="/bitrix/templates/webfly_san/img/ico13.png" width="39" height="39" alt="Группа ITProm в Twitter" /></a></li>
+    <li><a rel="nofollow"  href="http://ok.ru/group/52483459448969"><img src="/bitrix/templates/webfly_san/img/odn-ico.png" width="39" height="39" alt="Группа ITProm в Одноклассниках" /></a></li>
+    <li><a rel="nofollow"  href="#"><img src="/bitrix/templates/webfly_san/img/google-ico.png" width="39" height="39" alt="Группа ITProm в Google+" /></a></li>
+  </ul>
+</div>
+</noindex>            </div>
+            <div class="col20">
+                <p class="footing-p-header">Способы оплаты</p>
+<p>Вы можете оплатить покупки
+  наличными при получении, либо
+  выбрать другой удобный вам способ оплаты:
+</p>
+<p>
+  <img src="/bitrix/templates/webfly_san/img/visa.png" class="payment" alt="Visa"/>
+  <img src="/bitrix/templates/webfly_san/img/mastercard.png" class="payment" alt="Mastercard"/>
+  <img src="/bitrix/templates/webfly_san/img/yandexmoney.png" class="payment" alt="yandexmoney"/>
+</p>            </div>
+            <div class="col20">
+                <p class="footing-p-header">Контакт</p>
+<p>
+  <span class="small-text">для заказов в Вашем регионе</span>
+  <br />
+  <a class="header-phone" href="tel:84952550096" title="Номер телефона ИТПром"><span itemprop="telephone">8 (495) 255-00-96</span></a>
+</p>                <p><span class="small-text"><noindex><a rel="nofollow" href="#">Заказать звонок</a></noindex></span></p>
+            </div>
+        </div>
+        <div class="text">
+            Вся информация на сайте носит исключительно справочный характер, и не является публичной офертой. Информация о товарах, их характеристиках и комплектации может как содержать ошибки, так и быть изменена производителем без предварительного уведомления, и не может быть основанием для предъявления каких-либо претензий. Пожалуйста, уточняйте существенные для Вас характеристики и компоненты комплектации товаров  о операторов.        </div>
+    </div>
+    <div class="google">
+        
+    </div>
+    <div class="yandex">
+        <!-- Yandex.Metrika counter -->
+        
+        <noscript><div><img src="//mc.yandex.ru/watch/32630115" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+    </div>
+</div>
+<!-- Footer fixed -->
+<div class="footer-row">
+
+    <div class="footer-center">
+        <div id="footer-feedback-container"  class="block-feedback">
+                    </div>
+        <div id="bx-composite-banner" style="float: left"></div>
+        <div id="footer-right-container">
+                </div>
+    </div>
+</div>
+
+<!-- Other -->
+<div class="bg"> </div>
+<div class="bg2"> </div>
+<div id="virtual" class="link-basket"></div>
+<div id="virt_checked"></div>
+<div class="loader_bg">
+    <div class="loader" title="7">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="60px" height="40px" viewBox="0 0 60 40" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+        <rect x="0" y="40" width="6" height="15" fill="#333" opacity="0.2">
+            <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="0.75s" repeatCount="indefinite" />
+            <animate attributeName="height" attributeType="XML" values="15; 30; 15" begin="0s" dur="0.75s" repeatCount="indefinite" />
+            <animate attributeName="y" attributeType="XML" values="10; 10; 10" begin="0s" dur="0.75s" repeatCount="indefinite" />
+        </rect>
+            <rect x="12" y="40" width="6" height="15" fill="#333"  opacity="0.2">
+                <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.15s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="height" attributeType="XML" values="15; 30; 15" begin="0.15s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="y" attributeType="XML" values="10; 10; 10" begin="0.15s" dur="0.75s" repeatCount="indefinite" />
+            </rect>
+            <rect x="24" y="40" width="6" height="15" fill="#333"  opacity="0.2">
+                <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.3s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="height" attributeType="XML" values="15; 30; 15" begin="0.3s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="y" attributeType="XML" values="10; 10; 10" begin="0.3s" dur="0.75s" repeatCount="indefinite" />
+            </rect>
+            <rect x="36" y="40" width="6" height="15" fill="#333"  opacity="0.2">
+                <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.45s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="height" attributeType="XML" values="15; 30; 15" begin="0.45s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="y" attributeType="XML" values="10; 10; 10" begin="0.45s" dur="0.75s" repeatCount="indefinite" />
+            </rect>
+            <rect x="48" y="40" width="6" height="15" fill="#333"  opacity="0.2">
+                <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.6s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="height" attributeType="XML" values="15; 30; 15" begin="0.6s" dur="0.75s" repeatCount="indefinite" />
+                <animate attributeName="y" attributeType="XML" values="10; 10; 10" begin="0.6s" dur="0.75s" repeatCount="indefinite" />
+            </rect>
+      </svg>
+    </div>
+</div>
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1'});</script><script type="text/javascript" src="/bitrix/cache/js/s1/webfly_san/kernel_main/kernel_main.js?1447076593238644"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?14399785954928"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?14434477489676"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/webfly_san/kernel_socialservices/kernel_socialservices.js?14469785851659"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?144344774869133','/bitrix/js/main/core/core_ajax.js?143997859520575','/bitrix/js/main/json/json2.min.js?14399785953467','/bitrix/js/main/core/core_ls.js?14399785957365','/bitrix/js/main/core/core_fx.js?14399785959592','/bitrix/js/main/core/core_window.js?143997859574831','/bitrix/js/main/core/core_popup.js?143997859528778','/bitrix/js/main/session.js?14399785952511','/bitrix/js/main/utils.js?143997859519858','/bitrix/js/socialservices/ss.js?14399785951419','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.smart.filter/santech/script.js?144594294419094','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/script.js?144659121437408','/bitrix/templates/webfly_san/js/jquery-1.11.1.min.js?143997860895786','/bitrix/templates/webfly_san/js/jquery-migrate-1.2.1.min.js?14399786087199','/bitrix/templates/webfly_san/js/jquery-ui-1.9.2.custom.min.js?1439978608237802','/bitrix/templates/webfly_san/js/clear-form-fields.js?14399786087251','/bitrix/templates/webfly_san/js/form.js?14471557854908','/bitrix/templates/webfly_san/js/jquery.mousewheel.js?14399786082401','/bitrix/templates/webfly_san/js/jquery.jscrollpane.min.js?143997860815136','/bitrix/templates/webfly_san/js/respond.min.js?14399786084041','/bitrix/templates/webfly_san/js/jquery.tiles.min.js?14399786086532','/bitrix/templates/webfly_san/js/jquery.maskedinput.min.js?14399786083568','/bitrix/templates/webfly_san/js/jquery.easing.1.3.js?14399786088097','/bitrix/templates/webfly_san/js/accounting.min.js?14399786083151','/bitrix/templates/webfly_san/js/jquery.animateNumber.min.js?14399786081353','/bitrix/templates/webfly_san/js/site.js?144716439625801','/bitrix/templates/webfly_san/js/hammer.min.js?143997860813714','/bitrix/templates/webfly_san/js/hammer.jquery.min.js?1439978608940','/bitrix/templates/webfly_san/js/pult.js?14399786081670','/bitrix/components/bitrix/search.title/script.js?14399785946196','/bitrix/templates/webfly_san/components/bitrix/search.title/stitle/script.js?143997860814046','/bitrix/templates/webfly_san/components/bitrix/sale.basket.basket.line/footer/script.js?14466783703272']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14399785952854','/bitrix/js/main/core/css/core_popup.css?143997859534473','/bitrix/js/socialservices/css/ss.css?14399785954469','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/style.css?1439978608697','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.smart.filter/santech/style.css?14399786089671','/bitrix/templates/webfly_san/components/bitrix/breadcrumb/catalog/style.css?1439978607947','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section.list/section/style.css?14399786087305','/bitrix/templates/webfly_san/components//bitrix/system.pagenavigation/modern/style.css?1446915642659','/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/style.css?143997860826812','/bitrix/templates/webfly_san/css/all.css?144774652260429','/bitrix/templates/webfly_san/css/change.css?144209503618363','/bitrix/templates/webfly_san/css/jquery.jscrollpane.css?14399786081447','/bitrix/templates/webfly_san/css/themes/backgrounds.css?14399786081392','/bitrix/templates/webfly_san/css/jquery.tiles.css?143997860811509','/bitrix/templates/webfly_san/css/pult.css?14399786085007','/bitrix/templates/webfly_san/css/themes/coral-buttons.css?14399786081061','/bitrix/templates/webfly_san/components/bitrix/menu/main_top/style.css?1439978608626','/bitrix/templates/webfly_san/components/bitrix/search.title/stitle/style.css?14399786081892','/bitrix/templates/webfly_san/styles.css?1443000464269','/bitrix/templates/webfly_san/components/bitrix/system.auth.form/auth/style.css?1439978608442','/bitrix/templates/webfly_san/components/bitrix/main.register/register/style.css?1439978608537','/bitrix/templates/webfly_san/components/webfly/message.add/main_feed/style.css?1439978608115','/bitrix/templates/webfly_san/components/bitrix/sale.basket.basket.line/footer/style.css?14399786088165']); </script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/webfly_san/template_1a542e6f4299aa1d4230286ad94cae6c/template_1a542e6f4299aa1d4230286ad94cae6c.js?1447164402465618"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/webfly_san/page_abbbb10f99e508c3a96ced3454025ec1/page_abbbb10f99e508c3a96ced3454025ec1.js?144697858557449"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/webfly_san/default_ae26a55d51d055781971facd0dffe860/default_ae26a55d51d055781971facd0dffe860.js?14469785853681"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "ed6e9b4f6d3e6b0a0c9990ee0507326c"]); _ba.push(["host", "itprom.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script type="text/javascript">
+var jsControl = new wfJTitleSearch({
+	'AJAX_PAGE' : '/bitrix/templates/webfly_san/components/bitrix/search.title/stitle/result_modifier.php',
+	'CONTAINER_ID': 'title-search',
+	'INPUT_ID': 'title-search-input',
+	'MIN_QUERY_LEN': 2,
+	'SITE_ID': 's1',
+	'CLEAR_CACHE': ''
+});
+</script><script type="text/javascript">
+  var page = 1;
+  var numPages = Math.ceil(/12);
+  $(show_more_callback);
+  function show_more_callback(){
+      $(".btn-show").on("click",function(){
+          var url = "";
+          page++;
+
+          if(page <= numPages){
+              $.get(url,{PAGEN_1:page, ajaxw:"Y"},function(d){
+                  var newd = d.split("<!--RestartBuffer-->");
+                  $("#wf-product-catalog").find("ul").append(newd[1]);
+                  init();
+              });
+          }
+          if(page == numPages) {
+              $(".btn-show, .btn-show-all").hide();
+          }
+          return false;
+      });
+  }
+</script><script type="text/javascript">
+
+
+    function checkbox_change_events($){
+        $(".srav").not(".added").on("change", function(){
+            var url = "";
+            var _this = this;
+            callback = function (result) {
+                countAnimate(_this);
+            }
+            if($(this).is(":checked")){
+                url = $(this).val();
+                $.post(url,{},callback);
+            }else{
+                var id = $(this).attr("wf-elem-id");
+                url = "/catalog/compare.php";
+                var requestData = {action:"DELETE_FROM_COMPARE_RESULT",IBLOCK_ID:4,ID:[id]};
+                $.post(url, requestData,callback);
+            }
+        });
+        $(".fav").not(".added").on("change",function(){
+            var _this = this;
+            var url = "/bitrix/templates/webfly_san/ajax/favorites.php";
+            var requestData = {};
+            var elem = $(this).val();
+            var elemVal = $(this).attr("elem-val");
+            var that = $(this);
+            if($(this).is(":checked")){
+                requestData = {elemId:elem, action:"add"};
+                $.post(url,requestData,function(d){
+                    that.val(d);
+                    countAnimate(_this);
+                });
+            }else{
+                requestData = {elemId:elem, action:"delete"};
+                $.post(url,requestData,function(d){
+                    that.val(elemVal);
+                    subsFav();
+                });
+            }
+        });
+        $("body").on("click",".dop_options .myChb",function(){
+            var fora = $(this).attr("for");
+            if($("#"+fora).is(":disabled")) alert("Только авторизованный пользователь можеть добавлять в избранное");
+        });
+        $(".srav, .fav").addClass("added");
+    }
+
+
+    /* Adding to basket */
+    function addToBacketEvent($) {
+        $(".link-basket").not(".added").on("click", function () {
+            var wareId = $(this).attr("id").split('_')[2];
+            if (isNaN(wareId)) {
+                return false;
+            }
+            var url = "/bitrix/templates/webfly_san/ajax/buy.php",
+                price = $(this).attr("price-val"),
+//            options = $(".options input:checked").map(function(){return $(this).data("optid");}).get(),
+                params = {id: wareId, cost: price};
+            if ($(this).is(".btn-credit")) $.extend(params, {credit: ""});
+            $.post(url, params, function () {
+                BX.onCustomEvent('OnBasketChange');
+            });
+        });
+        $(".link-basket").addClass("added");
+    }
+    function addToBacketAnimationEvent($) {
+        $('.link-basket, .add-basket').not(".added1").on('click', function (event) {
+            if($(this).hasClass("no-animation")) return true;
+            var cartX = Math.ceil($(".basket-footer").offset().left),
+                cartY = Math.ceil($(".basket-footer").offset().top); //cart coordinates
+            var offsetX, offsetY;
+            offsetX = Math.ceil($(this).offset().left);
+            offsetY = Math.ceil($(this).offset().top);	//current button coordinates
+            var virtBtn;
+            if ($(this).is('.link-basket')) {
+                virtBtn = '#virtual';
+            }
+            else {
+                virtBtn = "#virtual2";
+            }
+            $(virtBtn).css({"left": offsetX + "px", "top": offsetY + "px"}).show(1).delay(1).queue(function () {
+                $(virtBtn).css({"top": cartY, "left": cartX, 'opacity': 0, 'transform': 'scale(0.3,0.3)'}).delay(800).queue(function () {
+                    $(virtBtn).css({"top": 0, "left": 0, 'opacity': 1, 'transform': 'scale(1,1)'}).hide(1);
+                    $("#addCart").fadeIn(600).delay(1500).fadeOut(400);
+                    $(".basket-footer > .text").text('1').addClass('basket-count');
+                    $(".basket-info").fadeIn(150);
+                    $(this).dequeue();
+                });
+                $(this).dequeue();
+            });
+            event.preventDefault();
+        });
+        $('.link-basket, .add-basket').addClass("added1");
+    }
+  </script><script type="text/javascript">
+    function seoshowmore() {
+      $("#short_text").switchClass("box-hide", "box-show");
+    }
+  </script><script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-45630528-7', 'auto');
+            ga('send', 'pageview');
+
+        </script><script type="text/javascript">
+            (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+            try {
+            w.yaCounter32630115 = new Ya.Metrika({id:32630115,
+            webvisor:true,
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true});
+            } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+            })(document, window, "yandex_metrika_callbacks");
+        </script></body>
+</html><!--3c16807dcc3f6a2dc9d7a3fa50c6d05c-->
