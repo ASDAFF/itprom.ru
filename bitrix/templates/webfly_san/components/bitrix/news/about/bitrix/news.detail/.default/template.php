@@ -25,7 +25,7 @@ $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js
 <div id="content">
   <div class="c1">
     <div class="content-text-inner">
-		<h1 style="color:red; font-weight:bold; margin-bottom: 20px; width:100%; text-align:center;">
+		<h1 class="redhead">
 			Извините! Данный раздел временно недоступен!
 		</h1>
     </div>
@@ -35,9 +35,40 @@ $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js
 <div id="content">
   <div class="c1">
     <div class="content-text-inner">
-		<!--<h2 style="margin-bottom: 20px;width:100%;text-align:right;;"><?//=$arResult["PROPERTIES"]["SECTION"]["VALUE"]?></h2>-->
+		<?//<h2 style="margin-bottom: 20px;width:100%;text-align:right;;"><?=$arResult["PROPERTIES"]["SECTION"]["VALUE"]</h2>?>
    		<h1><?=$arResult["NAME"]?></h1>
-      <?=$arResult["PREVIEW_TEXT"]?>
+        <?=$arResult["PREVIEW_TEXT"]?>
+
+        <?if( !empty($arResult["PROPERTIES"]["MAP"]["VALUE"]) ){?>
+            <?$coord = explode(",", $arResult["PROPERTIES"]["MAP"]["VALUE"]);
+            $map_data = serialize(
+                array(
+                    'google_lat' => $coord[0],
+                    'google_lon' => $coord[1],
+                    'google_scale' => 15,
+                    'PLACEMARKS' => array(
+                        array(
+                            //'TEXT' => $arResult["NAME"],
+                            'LAT' => $coord[0],
+                            'LON' => $coord[1],
+                        ),
+                    ),
+                ));?>
+            <?$APPLICATION->IncludeComponent(
+                "bitrix:map.google.view",
+                "",
+                Array(
+                    "INIT_MAP_TYPE" => "ROADMAP",
+                    "MAP_DATA" => $map_data,
+                    "MAP_WIDTH" => "640",
+                    "MAP_HEIGHT" => "490",
+                    "CONTROLS" => array("SMALL_ZOOM_CONTROL","TYPECONTROL","SCALELINE"),
+                    "OPTIONS" => array("ENABLE_DBLCLICK_ZOOM","ENABLE_DRAGGING","ENABLE_KEYBOARD"),
+                    "MAP_ID" => ""
+                )
+            );?>
+        <?}?>
+
     </div>
   </div>
 </div>
