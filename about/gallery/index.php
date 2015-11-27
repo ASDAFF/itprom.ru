@@ -1,7 +1,7 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Галерея");
 ?><div class="wrapper">
-	<div class="container" style="width:100%;">
+	<div class="container fullwidth"  >
 		<div class="container-hold">
 			<h1 style="padding:29px 0px 29px 36px;margin-bottom: 0px;"> <? $APPLICATION->ShowTitle(); ?> </h1>
 			 <?$APPLICATION->IncludeComponent(
@@ -70,4 +70,4 @@ $APPLICATION->SetTitle("Галерея");
 		</div>
 	</div>
 </div>
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

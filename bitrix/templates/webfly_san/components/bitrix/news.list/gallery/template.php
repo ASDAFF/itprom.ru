@@ -11,7 +11,15 @@
 /** @var string $componentPath */
 /** @var CBitrixComponent $component */
 $this->setFrameMode(true);
-$this->addExternalCss("/bitrix/css/main/bootstrap.css");
+//*******************************************************
+//************** THIS CRUSHES CSS ******************
+//$this->addExternalCss("/bitrix/css/main/bootstrap.css");
+/*$APPLICATION->AddHeadString('<style>
+	div.header-info {-webkit-box-sizing: content-box !important;-moz-box-sizing: content-box !important;box-sizing: content-box !important;}
+	.help-block{margin-top:0px !important;margin-bottom:0px !important;}
+</style>');*/
+//*******************************************************
+$this->addExternalCss("/bitrix/css/main/gbootstrap.css");
 $this->addExternalCss("/bitrix/css/main/font-awesome.css");
 $this->addExternalCss($this->GetFolder().'/themes/'.$arParams['TEMPLATE_THEME'].'/style.css');
 
@@ -32,10 +40,7 @@ $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-media.js?
 $APPLICATION->SetAdditionalCSS($fancypath.'source/helpers/jquery.fancybox-thumbs.css?v=1.0.7');
 $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js?v=1.0.7");
 
-$APPLICATION->AddHeadString('<style>
-	div.header-info {-webkit-box-sizing: content-box !important;-moz-box-sizing: content-box !important;box-sizing: content-box !important;}
-	.help-block{margin-top:0px !important;margin-bottom:0px !important;}
-</style>');
+
 ?>
 
 
