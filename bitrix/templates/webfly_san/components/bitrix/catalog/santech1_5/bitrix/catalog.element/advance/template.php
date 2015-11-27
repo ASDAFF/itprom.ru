@@ -35,14 +35,8 @@ if(CModule::IncludeModule("iblock")): //подключаем модуль инф
 				$matches = $matches[0];
 
 				for ($i = 0; $i < count($matches); $i++) {
-//					test_dump($matches[$i][1]);
 					$value = $matches[$i][1] != 'n';
 					$match = trim($matches[$i], "#n");
-//					test_dump($match);
-//					test_dump($arResult["PROPERTIES"][$match]["VALUE"]);
-
-//					test_dump($match);
-//					test_dump($value);
 
 					if ($value)
 						$replace = $arResult["PROPERTIES"][$match]["VALUE"];
@@ -52,7 +46,6 @@ if(CModule::IncludeModule("iblock")): //подключаем модуль инф
 					$DESCRIPTION = str_replace($matches[$i], $replace, $DESCRIPTION);
 				}
 
-				//test_dump($matches);
 				$arResult["DETAIL_TEXT"] = $DESCRIPTION;
 			endif;
 
@@ -60,7 +53,6 @@ if(CModule::IncludeModule("iblock")): //подключаем модуль инф
 	endif;
 endif;
 
-//test_dump($arResult);
 
 $strMainID = $this->GetEditAreaId($arResult['ID']);
 $isOffers = !empty($arResult["OFFERS"]);
@@ -218,7 +210,7 @@ $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js
 					</ul>
 				</form>
 			<?endif?>
-			<span class="price-text"><?=GetMessage("WF_PRICE")?>:</span>
+			<span class="price-text">Цена с НДС<?//=GetMessage("WF_PRICE")?>:</span>
     <span class="price">
     <?
 	if($boolDiscountShow):?>
