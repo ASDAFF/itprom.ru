@@ -1,5 +1,129 @@
-
 <?IncludeTemplateLangFile(__FILE__);?>
+<?if (isset($GLOBALS["catdets"])):?>
+<div class="wrapper"><div class="bottomprods">
+    <div class="clearboth"></div>
+    <div id="linkedproducts">
+        <?test_dump($GLOBALS["catdets"]);?>
+        <?$APPLICATION->IncludeComponent(
+            "bitrix:sale.recommended.products",
+            ".default",
+            array(
+                "ID" => $GLOBALS["catdets"],
+                "MIN_BUYES" => "1",
+                "DETAIL_URL" => $arResult["DETAIL_PAGE_URL"],
+                "BASKET_URL" => "/personal/basket.php",
+                "ACTION_VARIABLE" => "action",
+                "PRODUCT_ID_VARIABLE" => "id",
+                "ELEMENT_COUNT" => "5",
+                "LINE_ELEMENT_COUNT" => "5",
+                "PRICE_CODE" => array(
+                ),
+                "USE_PRICE_COUNT" => "Y",
+                "SHOW_PRICE_COUNT" => "1",
+                "PRICE_VAT_INCLUDE" => "Y",
+                "CACHE_TYPE" => "A",
+                "CACHE_TIME" => "3600",
+                "CONVERT_CURRENCY" => "Y",
+                "CURRENCY_ID" => "RUB",
+                "COMPONENT_TEMPLATE" => ".default",
+                "IBLOCK_TYPE" => "catalog",
+                "IBLOCK_ID" => "4",
+                "CODE" => "",
+                "HIDE_NOT_AVAILABLE" => "N",
+                "SHOW_DISCOUNT_PERCENT" => "N",
+                "PRODUCT_SUBSCRIPTION" => "N",
+                "SHOW_NAME" => "Y",
+                "SHOW_IMAGE" => "Y",
+                "MESS_BTN_BUY" => "Купить",
+                "MESS_BTN_DETAIL" => "Подробнее",
+                "MESS_NOT_AVAILABLE" => "Нет в наличии",
+                "MESS_BTN_SUBSCRIBE" => "Подписаться",
+                "PAGE_ELEMENT_COUNT" => "30",
+                "TEMPLATE_THEME" => "blue",
+                "SHOW_OLD_PRICE" => "N",
+                "PRODUCT_QUANTITY_VARIABLE" => "quantity",
+                "ADD_PROPERTIES_TO_BASKET" => "Y",
+                "PRODUCT_PROPS_VARIABLE" => "prop",
+                "PARTIAL_PRODUCT_PROPERTIES" => "N",
+                "USE_PRODUCT_QUANTITY" => "N",
+                "PROPERTY_CODE_4" => array(
+                    0 => "",
+                    1 => "",
+                ),
+                "CART_PROPERTIES_4" => array(
+                    0 => "",
+                    1 => "",
+                ),
+                "ADDITIONAL_PICT_PROP_4" => "MORE_PHOTO",
+                "LABEL_PROP_4" => "-",
+                "PROPERTY_CODE_3" => array(
+                    0 => "",
+                    1 => "",
+                ),
+                "CART_PROPERTIES_3" => array(
+                    0 => "",
+                    1 => "",
+                ),
+                "ADDITIONAL_PICT_PROP_3" => "MORE_PHOTO",
+                "OFFER_TREE_PROPS_3" => array(
+                    0 => "-",
+                )
+            ),
+            false
+        );?>
+        <?/*$APPLICATION->IncludeComponent(
+            "bitrix:catalog.recommended.products",
+            "detail",
+            Array(
+                "IBLOCK_TYPE" => "catalog",
+                "IBLOCK_ID" => "4",
+                "ID" => 63870,
+                "CODE" => $_REQUEST["PRODUCT_CODE"],
+                "PROPERTY_LINK" => "RECOMMEND",
+                "OFFERS_PROPERTY_LINK" => "RECOMMEND",
+                "HIDE_NOT_AVAILABLE" => "N",
+                "SHOW_DISCOUNT_PERCENT" => "N",
+                "PRODUCT_SUBSCRIPTION" => "N",
+                "SHOW_NAME" => "Y",
+                "SHOW_IMAGE" => "Y",
+                "MESS_BTN_BUY" => "Купить",
+                "MESS_BTN_DETAIL" => "Подробнее",
+                "MESS_NOT_AVAILABLE" => "Нет в наличии",
+                "MESS_BTN_SUBSCRIBE" => "Подписаться",
+                "PAGE_ELEMENT_COUNT" => "30",
+                "LINE_ELEMENT_COUNT" => "3",
+                "TEMPLATE_THEME" => "blue",
+                "DETAIL_URL" => "",
+                "CACHE_TYPE" => "A",
+                "CACHE_TIME" => "86400",
+                "SHOW_OLD_PRICE" => "N",
+                "PRICE_CODE" => array(0=>"BASE",),
+                "SHOW_PRICE_COUNT" => "1",
+                "PRICE_VAT_INCLUDE" => "Y",
+                "CONVERT_CURRENCY" => "Y",
+                "CURRENCY_ID" => "RUB",
+                "BASKET_URL" => "/personal/basket.php",
+                "ACTION_VARIABLE" => "action",
+                "PRODUCT_ID_VARIABLE" => "id",
+                "PRODUCT_QUANTITY_VARIABLE" => "quantity",
+                "ADD_PROPERTIES_TO_BASKET" => "Y",
+                "PRODUCT_PROPS_VARIABLE" => "prop",
+                "PARTIAL_PRODUCT_PROPERTIES" => "N",
+                "USE_PRODUCT_QUANTITY" => "Y",
+                "SHOW_PRODUCTS_28" => "Y",
+                "PROPERTY_CODE_28" => array("WIDTH", "LENGHT"),
+                "CART_PROPERTIES_28" => array("SIZE"),
+                "ADDITIONAL_PICT_PROP_28" => "MORE_PHOTO",
+                "LABEL_PROP_28" => "SPECIALOFFER",
+                "PROPERTY_CODE_29" => array("SIZE", "COLOR"),
+                "CART_PROPERTIES_29" => array("SIZE"),
+                "OFFER_TREE_PROPS_29" => array("SIZE")
+            )
+        );*/?>
+    </div>
+</div></div>
+<?endif;?>
+
 <!--    Bottom info here -->
 <div class="wrapper info-wrapper">
     <div class="information-block"  itemscope itemtype="http://schema.org/Organization">

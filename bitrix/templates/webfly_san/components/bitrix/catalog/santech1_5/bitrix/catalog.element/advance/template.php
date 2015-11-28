@@ -363,10 +363,14 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
                 <?//}?>
 			</div>
 			<div class="tab" id="access">
-                
+
             </div>
 		</div>
 	</div>
+
+
+
+
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$("a.fancyimages").fancybox();
@@ -417,3 +421,4 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 		});
 	</script>
 </div>
+<? $GLOBALS["catdets"] = $arResult["ID"]; ?>

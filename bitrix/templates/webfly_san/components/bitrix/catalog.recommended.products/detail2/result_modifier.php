@@ -392,6 +392,8 @@ if (!empty($arResult['ITEMS']))
 	$arResult['ITEMS'] = $arNewItemsList;
 	$arResult['SKU_PROPS'] = $skuPropList;
 	$arResult['DEFAULT_PICTURE'] = $arEmptyPreview;
+    
+
   foreach($arResult["ITEMS"] as $key => $arItem){
     $arResult["ITEMS"][$key]["PREVIEW_PICTURE_SM"] = CFile::ResizeImageGet($arItem["PREVIEW_PICTURE"]["ID"], array('width'=>235, 'height'=>194),
                                                                               BX_RESIZE_IMAGE_PROPORTIONAL, true);

@@ -1,6 +1,7 @@
 #tabset02 {padding-bottom: 3px;}
 #pricecurrcy{width:0px; overflow:hidden;color:transparent;}
 #sharticleblock{text-align: center;}
+div.clearboth {clear: both;}
 
 /* item_detail_v2 */
 .bx_item_detail .bx_item_title{
