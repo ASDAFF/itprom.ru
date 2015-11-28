@@ -153,8 +153,7 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 					</ul>
 				</form>
 			<?endif?>
-			<?
-			$boolDiscountShow = (0 < $arResult['MIN_PRICE']['DISCOUNT_DIFF']);
+			<?$boolDiscountShow = (0 < $arResult['MIN_PRICE']['DISCOUNT_DIFF']);
 			if($boolDiscountShow){
 				$price = str_replace(" руб.","",$arResult["MIN_PRICE"]["PRINT_DISCOUNT_VALUE"]);
 			}else{
@@ -232,12 +231,12 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 			}
 			?>
 
-			<noindex><div class="share-article-block" style="text-align:center;">
+			<noindex><div class="share-article-block" id="sharticleblock">
 					<div class="social-list">
 						<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 						<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter" ></div>
 					</div>
-					<span itemprop="priceCurrency" style="width:0px; overflow:hidden;color:transparent;">RUB</span>
+					<span itemprop="priceCurrency" id="pricecurrcy">RUB</span>
 				</div></noindex>
 
 		</div>
@@ -292,7 +291,7 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 			</div>
 		</div>
 	</div>
-	<div class="tabset tabset-type02" style="padding-bottom: 3px;">
+	<div class="tabset tabset-type02" id="tabset02">
 		<ul class="tab-list tab-list2">
 			<li><a href="javascript:void(0);" class="active"><strong><?=GetMessage("WF_DESCRIPTION")?></strong></a></li>
 			<li><a href="javascript:void(0);" class=""><strong><?=GetMessage("WF_SPECS")?></strong></a></li>
@@ -301,7 +300,9 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 		</ul>
 		<div class="tab-holder">
 			<div class="tab active">
-				<div itemprop="description"><?=$arResult["DETAIL_TEXT"]?></div>
+				<div itemprop="description">
+                    <?=$arResult["DETAIL_TEXT"]?>
+                </div>
 			</div>
 			<div class="tab">
 				<?$excludeProps = array("BRAND_REF", "SPECIALOFFER",  "RECOMMEND", //"ARTNUMBER",
@@ -324,9 +325,8 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 			</div>
 			<div class="tab">
 				<script type="text/javascript" src="//dev.mneniya.pro/js/itpromru/mneniyafeed.js"></script><div id="mneniyapro_feed"><a href="//mneniya.pro">Mneniya.Pro</a></div>
-				<!--      --><?//
-				//      if ('Y' == $arParams['USE_COMMENTS']){?>
-				<!--      --><?//$APPLICATION->IncludeComponent(
+                <?//if ('Y' == $arParams['USE_COMMENTS']){?>
+				    <?//$APPLICATION->IncludeComponent(
 				//        "bitrix:catalog.comments",
 				//        "comments",
 				//        array(
@@ -360,19 +360,16 @@ isset($arResult["IPROPERTY_VALUES"]["ELEMENT_DETAIL_PICTURE_FILE_ALT"]) && '' !=
 				//        $component,
 				//        array("HIDE_ICONS" => "Y")
 				//      );?>
-				<!--      --><?//}?>
+                <?//}?>
 			</div>
-			<div class="tab">   </div>
+			<div class="tab" id="access">
+                
+            </div>
 		</div>
 	</div>
 	<script type="text/javascript">
 		$(document).ready(function() {
-
-			/* This is basic - uses default settings */
-
 			$("a.fancyimages").fancybox();
-
-
 		});
 	</script>
 

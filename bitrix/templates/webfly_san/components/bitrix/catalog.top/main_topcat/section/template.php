@@ -105,7 +105,7 @@ $arResult["FAVS"] = array_flip($favIds);
                 </div>
                 <div class="block">
                   <div class="description">
-                    <a href="<?= $arItem['DETAIL_PAGE_URL']?>"><?=$arItem['NAME']?></a>
+                      <a href="<?= $arItem['DETAIL_PAGE_URL']?>"><?=$arItem['NAME']?></a>
                   </div>
                   <div class="box">
                     <div class="col-left">
