@@ -53,6 +53,25 @@ require_once 'settings.php';
 			});
 		</script>
 	<?endif?>
+
+    <?
+    //////////////////
+    // Fancy Boxing //
+    $APPLICATION->AddHeadScript('https://code.jquery.com/jquery-latest.min.js');
+    $fancypath = '/bitrix/templates/webfly_san/js/fancybox/';
+
+    $APPLICATION->AddHeadScript($fancypath."lib/jquery.mousewheel-3.0.6.pack.js");
+    $APPLICATION->AddHeadScript($fancypath.'source/jquery.fancybox.pack.js?v=2.1.5');
+    $APPLICATION->SetAdditionalCSS($fancypath.'source/jquery.fancybox.css?v=2.1.5');
+    //helpers etc
+    $APPLICATION->SetAdditionalCSS($fancypath.'source/helpers/jquery.fancybox-buttons.css?v=1.0.5');
+    $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-buttons.js?v=1.0.5");
+    $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-media.js?v=1.0.6");
+
+    $APPLICATION->SetAdditionalCSS($fancypath.'source/helpers/jquery.fancybox-thumbs.css?v=1.0.7');
+    $APPLICATION->AddHeadScript($fancypath."source/helpers/jquery.fancybox-thumbs.js?v=1.0.7");
+    ?>
+
 </head>
 <body <?if(!empty($WF_Settings["bg"]) and ($WF_Settings["bg"] != "default")):?> class="<?=$WF_Settings["bg"]?>"<?endif?>>
 <div id="panel"><? $APPLICATION->ShowPanel(); ?></div>
