@@ -243,7 +243,8 @@ $this->setFrameMode(true);?>
           'MESS_NOT_AVAILABLE' => $arParams['MESS_NOT_AVAILABLE'],
 
           'TEMPLATE_THEME' => (isset($arParams['TEMPLATE_THEME']) ? $arParams['TEMPLATE_THEME'] : ''),
-          "ADD_SECTIONS_CHAIN" => "N"
+          "ADD_SECTIONS_CHAIN" => "N",
+          "USE_MAIN_ELEMENT_SECTION"=>'Y',
         ),
         $component
       );?>

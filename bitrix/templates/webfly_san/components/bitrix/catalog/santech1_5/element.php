@@ -111,6 +111,7 @@ $this->setFrameMode(true);?>
           "DETAIL_BRAND_HEIGHT" => (isset($arParams["DETAIL_BRAND_HEIGHT"])?$arParams["DETAIL_BRAND_HEIGHT"]:''),
           "DETAIL_BRAND_WIDTH_SMALL" => (isset($arParams["DETAIL_BRAND_WIDTH_SMALL"])?$arParams["DETAIL_BRAND_WIDTH_SMALL"]:''),
           "DETAIL_BRAND_HEIGHT_SMALL" => (isset($arParams["DETAIL_BRAND_HEIGHT_SMALL"])?$arParams["DETAIL_BRAND_HEIGHT_SMALL"]:''),
+          "SET_CANONICAL_URL"=>'Y',
         ),
         $component
       );?>

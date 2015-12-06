@@ -1,5 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <?
+
 IncludeTemplateLangFile(__FILE__);
 require_once 'settings.php';
 ?>
@@ -8,7 +9,8 @@ require_once 'settings.php';
 	<? $url = $APPLICATION->GetCurDir();
 	$APPLICATION->ShowHead(); ?>
 	<title><?$APPLICATION->ShowTitle()?></title>
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">    
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="canonical" href="<?$APPLICATION->ShowProperty('canonical')?>" />
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/all.css");?>
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/change.css");?>
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/jquery.jscrollpane.css");?>
