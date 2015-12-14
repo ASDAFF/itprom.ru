@@ -10,7 +10,6 @@ require_once 'settings.php';
 	$APPLICATION->ShowHead(); ?>
 	<title><?$APPLICATION->ShowTitle()?></title>
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="canonical" href="<?$APPLICATION->ShowProperty('canonical')?>" />
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/all.css");?>
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/change.css");?>
 	<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/jquery.jscrollpane.css");?>
