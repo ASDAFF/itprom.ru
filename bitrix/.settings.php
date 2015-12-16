@@ -53,4 +53,12 @@ return array (
     ),
     'readonly' => true,
   ),
+  'cache' =>
+  array (
+    'value' =>
+    array (
+      'type' => 'files',
+    ),
+    'readonly' => false,
+  ),
 );

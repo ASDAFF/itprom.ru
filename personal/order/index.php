@@ -11,10 +11,10 @@ $APPLICATION->SetTitle("Заказы");
 	"orders", 
 	array(
 		"SEF_MODE" => "Y",
-		"SEF_FOLDER" => "/personal/order/",
+		"SEF_FOLDER" => "/personal/",
 		"ORDERS_PER_PAGE" => "10",
-		"PATH_TO_PAYMENT" => SITE_DIR."/personal/order/payment/",
-		"PATH_TO_BASKET" => SITE_DIR."/personal/cart/",
+		"PATH_TO_PAYMENT" => "/personal/order/payment/",
+		"PATH_TO_BASKET" => "/personal/cart/",
 		"SET_TITLE" => "Y",
 		"SAVE_IN_SESSION" => "N",
 		"NAV_TEMPLATE" => "arrows",
@@ -38,9 +38,9 @@ $APPLICATION->SetTitle("Заказы");
 		"STATUS_COLOR_F" => "gray",
 		"STATUS_COLOR_PSEUDO_CANCELLED" => "red",
 		"SEF_URL_TEMPLATES" => array(
-			"list" => "index.php",
-			"detail" => "detail/#ID#/",
-			"cancel" => "cancel/#ID#/",
+			"list" => "",
+			"detail" => "order/detail/#ID#/",
+			"cancel" => "order/cancel/#ID#/",
 		)
 	),
 	false

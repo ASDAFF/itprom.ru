@@ -36,7 +36,7 @@ if(isset($_POST["ajaxm"])){
     "PREVIEW_TEXT"   => $preview_text,
     "CODE" => $_POST["email"]
   );
-  
+
   if($qID = $ibe->Add($messageParams)){
     $link = "bitrix/admin/iblock_element_edit.php?IBLOCK_ID={$arParams["IBLOCK_ID"]}&type={$arParams["IBLOCK_TYPE"]}&ID={$qID}&lang=ru";
     $text = $_POST["message"]."\n\n".$link;

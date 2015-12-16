@@ -199,25 +199,27 @@
             $frame = new \Bitrix\Main\Page\FrameBuffered("footer-feedback-container", false);
             $frame->begin('');
             ?>
-            <a href="#" class="link-feedback"><span><?=GetMessage("WF_FOOTER_FEEDBACK");?></span></a>
+            <a href="#" class="link-feedback" ><span><?=GetMessage("WF_FOOTER_FEEDBACK");?></span></a>
             <div class="popup-feedback" mode="" mode-mess="">
                 <?$APPLICATION->IncludeComponent(
-                    "webfly:message.add",
-                    "main_feed",
-                    array(
-                        "OK_TEXT" => GetMessage("WF_OK_TEXT"),
-                        "EMAIL_TO" => "",
-                        "IBLOCK_TYPE" => "feedback",
-                        "IBLOCK_ID" => "8",
-                        "EVENT_MESSAGE_ID" => array(
-                            0 => "38",
-                        ),
-                        "CACHE_TYPE" => "A",
-                        "CACHE_TIME" => "36000000",
-                        "SET_TITLE" => "N"
-                    ),
-                    false
-                );?>
+	"webfly:message.add",
+	"main_feed",
+	array(
+		"OK_TEXT" => GetMessage("WF_OK_TEXT"),
+		"EMAIL_TO" => "info@itprom.ru",
+		"IBLOCK_TYPE" => "feedback",
+		"IBLOCK_ID" => "8",
+		"EVENT_MESSAGE_ID" => array(
+			0 => "7",
+			1 => "38",
+		),
+		"CACHE_TYPE" => "A",
+		"CACHE_TIME" => "36000000",
+		"SET_TITLE" => "N",
+		"COMPONENT_TEMPLATE" => "main_feed"
+	),
+	false
+);?>
 
 
             </div>

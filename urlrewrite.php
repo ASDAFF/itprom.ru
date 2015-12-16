@@ -31,13 +31,13 @@ $arUrlRewrite = array(
 		"PATH" => "/about/staff/index.php",
 	),
 	array(
-		"CONDITION" => "#^/guaranty/#",
+		"CONDITION" => "#^/delivery/#",
 		"RULE" => "",
 		"ID" => "",
 		"PATH" => "/adults/index.php",
 	),
 	array(
-		"CONDITION" => "#^/delivery/#",
+		"CONDITION" => "#^/guaranty/#",
 		"RULE" => "",
 		"ID" => "",
 		"PATH" => "/adults/index.php",
@@ -61,16 +61,16 @@ $arUrlRewrite = array(
 		"PATH" => "/adults/index.php",
 	),
 	array(
-		"CONDITION" => "#^/about/#",
+		"CONDITION" => "#^/sales/#",
 		"RULE" => "",
-		"ID" => "bitrix:photogallery",
-		"PATH" => "/about/gallery.php",
+		"ID" => "bitrix:news",
+		"PATH" => "/sales/index.php",
 	),
 	array(
 		"CONDITION" => "#^/about/#",
 		"RULE" => "",
-		"ID" => "bitrix:news",
-		"PATH" => "/about/index.php",
+		"ID" => "bitrix:photogallery",
+		"PATH" => "/about/gallery.php",
 	),
 	array(
 		"CONDITION" => "#^/store/#",
@@ -85,10 +85,10 @@ $arUrlRewrite = array(
 		"PATH" => "/staff/index.php",
 	),
 	array(
-		"CONDITION" => "#^/sales/#",
+		"CONDITION" => "#^/about/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
-		"PATH" => "/sales/index.php",
+		"PATH" => "/about/index.php",
 	),
 	array(
 		"CONDITION" => "#^/blog/#",

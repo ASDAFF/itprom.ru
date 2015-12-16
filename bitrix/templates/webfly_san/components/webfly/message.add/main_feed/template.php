@@ -59,6 +59,7 @@ $this->setFrameMode(true);
     $.post(url, data, function(){
       $(".holder").html("<?=$arParams["OK_TEXT"]?>");
     });
+    yaCounter32630115.reachGoal('header_phone');
     setTimeout(function(){
       $(".btn-close-type01").click();
       $(".holder").html(html);
