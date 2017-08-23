@@ -9,7 +9,7 @@
         <div class="title">Гарантия</div>
       </div>
       <p>Покупая любой товар в интернет-магазине ITProm, вы получаете 2 недели на обмен товара/возврат денег, в случае заводского брака, и 1 год бесплатного обслуживания в нашем сервисном <br>центре. </p>
-      <a rel="nofollow" href="<?=SITE_DIR?>about/usloviya-garantii/" >Подробней о гарантии</a>
+      <a rel="nofollow" href="<?=SITE_DIR?>about/garantiya/" >Подробней о гарантии</a>
     </li>
     <li>
       <div class="heading">
