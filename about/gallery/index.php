@@ -1,13 +1,13 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Галерея");
 ?><div class="wrapper">
-	<div class="container fullwidth"  >
+	<div class="container fullwidth">
 		<div class="container-hold">
 			<h1 style="padding:29px 0px 29px 36px;margin-bottom: 0px;"> <? $APPLICATION->ShowTitle(); ?> </h1>
 			 <?$APPLICATION->IncludeComponent(
-	"bitrix:news.list",
-	"gallery",
-	Array(
+	"bitrix:news.list", 
+	"main_slider", 
+	array(
 		"ACTIVE_DATE_FORMAT" => "d.m.Y",
 		"ADD_SECTIONS_CHAIN" => "Y",
 		"AJAX_MODE" => "N",
@@ -20,15 +20,17 @@ $APPLICATION->SetTitle("Галерея");
 		"CACHE_TIME" => "36000000",
 		"CACHE_TYPE" => "A",
 		"CHECK_DATES" => "Y",
-		"COMPONENT_TEMPLATE" => "gallery",
-		"DETAIL_URL" => "",
+		"DETAIL_URL" => "/about/gallery/#SECTION_CODE_PATH#/#ELEMENT_CODE#",
 		"DISPLAY_BOTTOM_PAGER" => "Y",
 		"DISPLAY_DATE" => "Y",
 		"DISPLAY_NAME" => "Y",
 		"DISPLAY_PICTURE" => "Y",
 		"DISPLAY_PREVIEW_TEXT" => "Y",
 		"DISPLAY_TOP_PAGER" => "N",
-		"FIELD_CODE" => array("",""),
+		"FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
 		"FILTER_NAME" => "",
 		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
 		"IBLOCK_ID" => "15",
@@ -48,7 +50,10 @@ $APPLICATION->SetTitle("Галерея");
 		"PARENT_SECTION" => "",
 		"PARENT_SECTION_CODE" => "",
 		"PREVIEW_TRUNCATE_LEN" => "",
-		"PROPERTY_CODE" => array("",""),
+		"PROPERTY_CODE" => array(
+			0 => "",
+			1 => "",
+		),
 		"SEARCH_PAGE" => "/search/",
 		"SET_BROWSER_TITLE" => "Y",
 		"SET_LAST_MODIFIED" => "N",
@@ -62,12 +67,15 @@ $APPLICATION->SetTitle("Галерея");
 		"SORT_BY2" => "SORT",
 		"SORT_ORDER1" => "DESC",
 		"SORT_ORDER2" => "ASC",
+		"STRICT_SECTION_CHECK" => "N",
 		"TEMPLATE_THEME" => "blue",
 		"USE_RATING" => "N",
-		"USE_SHARE" => "N"
-	)
+		"USE_SHARE" => "N",
+		"COMPONENT_TEMPLATE" => "main_slider"
+	),
+	false
 );?>
 		</div>
 	</div>
 </div>
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+ <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

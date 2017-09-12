@@ -3,7 +3,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetPageProperty("description", "О компании ITProm - вся информация о доставке и работе ИТПром в Москве и всей России.");
 $APPLICATION->SetPageProperty("keywords", "О компании ITProm, информация о компании итпром, ITProm компания");
 $APPLICATION->SetPageProperty("title", "О компании ITProm");
-$APPLICATION->SetTitle("Доставка термошкафов ITProm");
+$APPLICATION->SetTitle("О компании ITProm");
 ?><div class="wrapper">
 	<div class="container">
 		<div class="container-hold">

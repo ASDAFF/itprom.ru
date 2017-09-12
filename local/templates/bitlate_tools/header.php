@@ -322,7 +322,7 @@ global $USER;
                             'NEWS_TYPE' => 3,
                         )
                     );?>
-                <?elseif (strpos($APPLICATION->GetCurDir(), SITE_DIR . 'company/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'shop/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'info/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'about/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'brands/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'blog1/') === 0) :?>
+                <?elseif (strpos($APPLICATION->GetCurDir(), SITE_DIR . 'company/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'shop/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'info/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'about/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'brands/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'blog1/') === 0||strpos($APPLICATION->GetCurDir(), SITE_DIR . 'news/') === 0 ||strpos($APPLICATION->GetCurDir(), SITE_DIR . 'sales/') === 0 ||strpos($APPLICATION->GetCurDir(), SITE_DIR . 'blog/') === 0 ) :?>
                     <div class="advanced-container-medium">
                         <nav>
                             <?$APPLICATION->IncludeComponent("bitrix:breadcrumb","",Array(

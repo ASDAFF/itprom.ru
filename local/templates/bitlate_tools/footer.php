@@ -5,7 +5,7 @@ if (!$templateOptions) {
 }?>
         <?if (ERROR_404 != "Y" && (strpos($APPLICATION->GetCurDir(), $templateOptions['url_catalog']) === false || strpos($APPLICATION->GetCurDir(), $templateOptions['url_catalog_search']) === 0)):?>
                 <?if ($APPLICATION->GetCurDir() == SITE_DIR):?>
-                <?elseif (strpos($APPLICATION->GetCurDir(), SITE_DIR . 'company/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'shop/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'info/') === 0):?>
+                <?elseif (strpos($APPLICATION->GetCurDir(), SITE_DIR . 'company/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'shop/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'info/') === 0 || strpos($APPLICATION->GetCurDir(), SITE_DIR . 'news/') === 0 ||strpos($APPLICATION->GetCurDir(), SITE_DIR . 'sales/') === 0) :?>
                             </div>
                         </article>
                     </div>

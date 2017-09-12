@@ -9,7 +9,6 @@ function createPlacemark(params){
 }
 
 function initYmap(id, points){
-    debugger;
     ymaps.ready(function(){
         var count = Object.keys(points).length;
         if (count) {
